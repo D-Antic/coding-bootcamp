@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  background-repeat: no-repeat;
+  font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+  display: inline-block;
+  text-align: left;
+}
+
+p{
+  z-index: 1;
+}
+.quote-block {
+  width: 50%;
+  height: auto;
+  margin: 10% auto;
+  text-align: left;
+  z-index: 1;
+
+}
+
+.tanya-img {
+  float: right;
+  height: 40%;
+  width: 40%;
+  display: block;
+  position: relative;
+  z-index: -2;
+  margin-top: 50px;
+  margin-right: 60px;
+}
+
+.quote {
+  font-size: 32px;
+  margin: 50px ;
+  padding-top: 200px;
+  text-align: left;
+}
+
+.name {
+  margin-left: 50px;
+  margin-right: 10px;
+}
+
+.job {
+  color: grey;
+}
+.bg-image {
+  float: right;
+  z-index: -3;
+  position: absolute;
+  margin-left: 600px;
+}
+
+.quotes-img {
+  z-index: -3;
+  position: absolute;
+  float: right;
+  z-index: -3;
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+
+.wave-img {
+  z-index: -3;
+  position: absolute;
+  float: right;
+  z-index: -3;
+  position: absolute;
+  margin-top: 500px;
+}
