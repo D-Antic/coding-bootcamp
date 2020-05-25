@@ -51,7 +51,9 @@ p{
   float: right;
   z-index: -3;
   position: absolute;
-  margin-left: 600px;
+  margin-left: 25%;
+  height: 50%;
+  width: 25%;
 }
 
 .quotes-img {
